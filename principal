@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Nosso Casamento</title>
+    <link rel="stylesheet" href="style.css"> </head>
+<body>
+    <header>
+        <div class="container">
+            <img src="images/logo.png" alt="Logo do Casamento" id="logo"> 
+
+            <div id="contagem-regressiva">
+                </div>
+        </div>
+    </header>
+
+    <main>
+        <section class="hero">
+            <div class="container">
+                <h1>Nosso amor floresce em meio à natureza!</h1>
+                <p>Bem-vindos ao nosso site de casamento! Estamos muito felizes em compartilhar este momento especial com vocês.</p>
+                <div class="botoes">
+                    <a href="sobre-o-casamento.html" class="botao">Sobre o Casamento</a>
+                    <a href="galeria-de-fotos.html" class="botao">Galeria de Fotos</a>
+                    <a href="novidades.html" class="botao">Novidades</a>
+                </div>
+            </div>
+        </section>
+    </main>
+
+    <footer>
+        <div class="container">
+            <p>&copy; 2025 [Nome do Casal]</p>
+        </div>
+    </footer>
+
+    <script src="script.js"></script> </body>
+</html>
